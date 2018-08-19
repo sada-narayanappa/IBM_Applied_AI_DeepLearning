@@ -1,4 +1,6 @@
-IBM Bluemix: https://console.bluemix.net/dashboard/apps/
+IBM Bluemix: 
+https://console.bluemix.net/dashboard/apps/
+datascience.ibm.com
 
 Week 1 Notes:
 =============
